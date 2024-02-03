@@ -1,0 +1,6 @@
+[submodule "linkShortner-frontend"]
+	path = linkShortner-frontend
+	url = git@github.com:naser-github/linkShortner-frontend.git
+[submodule "linkShortner-backend"]
+	path = linkShortner-backend
+	url = git@github.com:naser-github/linkShortner-backend.git
